@@ -1,6 +1,6 @@
 # LiteratureSummarizer
 
-### This project utilizes webscraping from multiple sources, data organization and cleaning, basic EDA techniques, and natural language processing and predictive analysis using complex machine models developed through the fine tuning of models from the Hugging Fact Transformers Library
+This project utilizes webscraping from multiple sources, data organization and cleaning, basic EDA techniques, and natural language processing and predictive analysis using complex machine models developed through the fine tuning of models from the Hugging Face Transformers Library
 
 ## Problem Statement
 Can a neural network model for natural language processing be used to create summaries from literary texts?
